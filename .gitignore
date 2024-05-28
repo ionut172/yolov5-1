@@ -22,7 +22,9 @@
 *.cfg
 !setup.cfg
 !cfg/yolov3*.cfg
-
+images
+videos
+custom_datasets
 storage.googleapis.com
 runs/*
 data/*
